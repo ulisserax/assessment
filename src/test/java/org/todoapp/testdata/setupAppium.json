@@ -1,0 +1,9 @@
+{
+  "appiumJSPath": "/usr/local/lib/node_modules/appium/build/lib/main.js",
+  "platformName": "iOS",
+  "automationName": "XCUITest",
+  "platformVersion": "18.3",
+  "appPath": "/Users/ulissesfilho/Library/Developer/Xcode/DerivedData/ToDos-eyeahqtniuqitydjkbwrgqsjvcvl/Build/Products/Debug-iphonesimulator/ToDos.app",
+  "deviceName": "iPhone 16 Pro",
+  "bundleId": "com.swiftiedev.ToDos"
+}
