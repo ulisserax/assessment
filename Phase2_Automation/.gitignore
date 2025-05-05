@@ -1,13 +1,13 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!Phase2_Automation/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
+Phase2_Automation/.idea/modules.xml
 .idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+Phase2_Automation/.idea/compiler.xml
+Phase2_Automation/.idea/libraries/
 *.iws
 *.iml
 *.ipr
